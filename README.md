@@ -8,10 +8,10 @@ Este repositorio contiene una prueba técnica para candidatos que deseen unirse 
 
 1. Realizar un programa en .NET - C# que cumpla con los siguientes requisitos:
     - Haz un fork de este proyecto
-    - Consumir la siguiente API: [https://api.opendata.esett.com/](https://api.opendata.esett.com/). Puede escoger sólo 1 cualquiera servicio proporcionado por la API.
-    - Haz un frontend en Balzor que:
-    - obtenga todos los registros y los muestre en una tabla paginada
-    - La tabla tiene que poder filtrar, buscar, y ordenar por cualquier columna
+    - Desarrollar interfaz de usuario que consuma la siguiente API: [https://api.opendata.esett.com/](https://api.opendata.esett.com/).
+    - Puede escoger 1 servicio cualquiera de los proporcionados por la API.
+    - Implementar funcionalidades como búsqueda, filtrado, paginación de datos y ordenación por cualquier columna.
+    - Asegurarse de que la interfaz de usuario sea intuitiva y fácil de usar.
     - Usa contenedor Docker la propia App
     - Puedes usar las librerías y framework adicionales que consideres
     - Recomendamos saltarse el CORS con extensión navegador Chrome
