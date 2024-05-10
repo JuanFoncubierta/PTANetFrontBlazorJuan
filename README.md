@@ -28,7 +28,7 @@ Se valorará positivamente (pero no es obligatorio cumplir con todos estos punto
 4. Demostrar conocimientos en patrones de diseño, tanto en el frontend como en el backend.
 5. Gestion correcta de los secretos como cadenas de conexión, uasuarios, passwords...
 6. Uso del inglés en código y comentarios
-7. Uso de elementos de observabilidad como ILogger
+7. Uso de elementos de monitoreo y observabilidad como ILogger
 8. Uso de Eventos
 9. Manejo de excepciones con patron monad
 10. Pruebas de test
