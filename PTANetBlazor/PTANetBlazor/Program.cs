@@ -1,10 +1,13 @@
 using PTANetBlazor.Components;
+using PTANetBlazor;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+ConfigData.Instance = new("https://api.opendata.esett.com/EXP01/BalanceResponsibleParties");
 
 var app = builder.Build();
 
