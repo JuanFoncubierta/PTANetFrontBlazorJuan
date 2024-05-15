@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace PTAJuan.Model;
+namespace PTANetBlazor;
 
 public class BalanceResponsibleParty
 {
