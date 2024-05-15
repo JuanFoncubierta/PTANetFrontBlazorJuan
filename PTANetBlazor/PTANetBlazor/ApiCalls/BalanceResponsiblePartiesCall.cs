@@ -1,8 +1,6 @@
 ﻿using Newtonsoft.Json;
-using PTAJuan.Config;
-using PTAJuan.Model;
 
-namespace PTAJuan.ApiCalls;
+namespace PTANetBlazor;
 
 public class BalanceResponsiblePartiesCall
 {
